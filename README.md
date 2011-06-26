@@ -1,6 +1,7 @@
 TwitterGraph
 =========
-TwitterGraph is a tiny <a href="http://processing.org">Processing</a> project that visualizes the 400 last tweets from a given timeline.
+TwitterGraph is a tiny <a href="http://processing.org">Processing</a> project that visualizes the 400ish last tweets from a timeline.
+See an example on my <a href="http://www.trivialview.ch/blog/2011/06/my-twitter-timeline-is-so-sexy/?lang=en">blog</a>.
 
 Warning
 -------
