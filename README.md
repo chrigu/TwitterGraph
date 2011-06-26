@@ -9,7 +9,7 @@ Please not that the code is very ugly and that didn't invest too much time in do
 Setup
 -----
 
-**1. Obtain Processing **
+**1. Obtain Processing**
 <a href="http://processing.org">Processing</a>
 
 **2. Put this projects code in your sketches directory**
